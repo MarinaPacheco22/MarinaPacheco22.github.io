@@ -1,0 +1,14 @@
+body.menu{
+ background-color:black;}
+table{
+  background-color:black;}
+td.texto:hover{
+   background-color:lightblue;
+   color:black;}
+a:hover{
+   background-color:lightblue;
+   color:black;}
+
+a{
+ text-decoration:blink;
+color:lightblue;}
