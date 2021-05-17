@@ -1,9 +1,13 @@
 head {
-  background_color: lightblue;
+  background_color: black;
+  color: white;
+}
+
+h1 {
   text-align: center;
-  
+  text-shadow: 2px 2px 5px blue;
 }
 
 body {
-  font-family: "Garamond";
+  font-family: "Verdana";
 }
