@@ -1,8 +1,9 @@
 head {
   background_color: lightblue;
   text-align: center;
+  
 }
 
 body {
-  background-color: lightblue;
+  font-family: "Garamond";
 }
